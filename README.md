@@ -1,4 +1,5 @@
-# Restaurant App - AMA
+# Restaurant App - AMA (Sep. 2020 - Dec. 2020)
+
 A restaurant app that allows you to browse menu items, login, register, and book reservations in our restaurant, AMA.
 
 ## Collaboration
